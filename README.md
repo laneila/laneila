@@ -1,11 +1,7 @@
-Hi 👋 My name is Neyla Gómez
-============================
-
-Developer
----------
-
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [neylagomez111@gmail.com](mailto:neylagomez111@gmail.com)
+<div align="center">
+<img src="https://i.pinimg.com/564x/64/87/90/6487905272666018ed7495a38e8d9e31.jpg" width="100%" align="center" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=36&duration=4000&pause=280&color=8ea17f&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+Pretty!;I'm+a+Software+Developer+who+loves+learning;and cats+%F0%9F%90%B1" width="100%" />
+<br><br>
 
 ### Skills
 
