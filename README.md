@@ -1,7 +1,9 @@
 <div align="center">
-<img src="28618d855e99a975aaefa33226ff6007.jpg" width="70%" align="center" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=36&duration=4000&pause=280&color=8ea17f&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+Pretty!;I'm+a+Software+Developer+who+loves+learning;and cats+%F0%9F%90%B1" width="90%" />
-<br><br>
+  <img src="28618d855e99a975aaefa33226ff6007.jpg" width="70%" align="center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=36&duration=4000&pause=280&color=8ea17f&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+Pretty!;I'm+a+Software+Developer+who+loves+learning;and+cats+%F0%9F%90%B1" width="90%" />
+  <br><br>
+</div>
+
 
 ### Skills
 
