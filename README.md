@@ -62,6 +62,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/laneila" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laneila&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><img src="https://i.gifer.com/1kLR.gif" width="10%"/><a href="http://www.github.com/laneila"><img src="https://github-readme-stats.vercel.app/api?username=laneila&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="laneila's GitHub stats" align="bottom"/></a>
+<img src="DAS.gif" width="30%"/><img src="DAS.gif" width="30%"/><a href="https://github.com/laneila"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laneila&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right"/></a>
 
 
