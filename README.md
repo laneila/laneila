@@ -8,11 +8,11 @@
 <img src="ranita.png" height="200" align="right" />
 
 ### About me
-- 🎈 I enjoy working in the backend because I want to provide a good user experience.
-- 🥨 I provide creative solutions.
-- 🥐 I dream of developing my skills and enhancing my abilities to become a full stack developer.
-- 🍰 I'm currently Developing veterinary platform with my team of friends.
-- 🍬 I’m looking to collaborate on your open source projects!
+- 🐸 Passionate about backend development, aiming to deliver exceptional user experiences.
+- 🦢 I enjoy crafting innovative solutions to complex problems.
+- 🎧 Aspiring to grow my skills and become a versatile full stack developer.
+- 🐶 Currently working on a veterinary platform with my team.
+- 🌼 Open to collaborating on exciting open-source projects!
 
 
 ### Technologies 
