@@ -5,8 +5,6 @@
   <br><br>
 </div>
 
-<img src="ranita.png" height="200" align="right" />
-
 ### About me
 - 🐸 Passionate about backend development, aiming to deliver exceptional user experiences.
 - 🦢 I enjoy crafting innovative solutions to complex problems.
